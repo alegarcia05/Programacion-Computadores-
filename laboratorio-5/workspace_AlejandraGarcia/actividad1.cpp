@@ -10,4 +10,4 @@ int main(){
     scanf("%d, &numero2");
     suma=numero1+numero2;
     printf("El resultado de la suma es %d\n",suma); 
-return 0;}
+return 0;} 
