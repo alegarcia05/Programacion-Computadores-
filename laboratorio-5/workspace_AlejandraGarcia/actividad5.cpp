@@ -6,9 +6,9 @@ float tarea3;
 float actitudinal;
 float prueba1;
 float prueba2;
+
 int main(){
 
-    
     printf("ingrese la nota de la tarea 1 \n");
     scanf("%f", &tarea1);
     printf("ingrese la nota de la tarea 2 \n");
